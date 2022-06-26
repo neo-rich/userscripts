@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Neopets Quick Menu
-// @version       1.0
+// @version       1.1.0
 // @description   Adds a quick access menu to all Neopets pages
 // @author        NeoRich
 // @match         *://www.neopets.com/*

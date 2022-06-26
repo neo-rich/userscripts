@@ -7,6 +7,7 @@
 // @match        *://www.neopets.com/market.phtml?type=till
 // @grant        none
 // @updateURL    https://github.com/neo-rich/userscripts/raw/main/auto_enter.user.js
+// @downloadURL  https://github.com/neo-rich/userscripts/raw/main/auto_enter.user.js
 // ==/UserScript==
 
 (function () {

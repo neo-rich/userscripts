@@ -7,6 +7,7 @@
 // @exclude-match *://www.neopets.com/~*
 // @grant         none
 // @updateURL     https://github.com/neo-rich/userscripts/raw/main/quickmenu.user.js
+// @downloadURL   https://github.com/neo-rich/userscripts/raw/main/quickmenu.user.js
 // ==/UserScript==
 
 (function () {

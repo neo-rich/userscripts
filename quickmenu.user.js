@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Neopets Quick Menu
-// @version       1.1.0
+// @version       1.2.0
 // @description   Adds a quick access menu to all Neopets pages
 // @author        NeoRich
 // @match         *://www.neopets.com/*
@@ -92,9 +92,10 @@
           <span class="gm-menu-close btn">x</span>
         </div>
         <ul>
+            <li><a href="/questlog">Quest Log</a></li>
             <li><a href="/bank.phtml">Bank</a></li>
             <li><a href="/quickref.phtml">QuickRef</a></li>
-            <li><a href="/inventory.phtml">Inventory</a>&nbsp;(<a href="/inventory.phtml/x">Old</a>)&nbsp;(<a href="/safetydeposit.phtml">SDB</a>)</li>
+            <li><a href="/inventory.phtml">Inventory</a>&nbsp;(<a href="/safetydeposit.phtml">SDB</a>)</li>
             <li><a href="/market.phtml?type=your">Shop Stock</a>&nbsp;(<a href="/market.phtml?type=till">Till</a>)</li>
             <li><a href="/stockmarket.phtml?type=list&bargain=true">Stocks</a>&nbsp;(<a href="/stockmarket.phtml?type=portfolio">Portfolio</a>)</li>
             <li><a href="/objects.phtml?obj_type=1&type=shop" class="gm-link-shop">Shop #</a><input type="number" id="gm-shopnum" name="gm-shopnum" value="${currentShopID}" min="1"></li>
